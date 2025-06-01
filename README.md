@@ -55,7 +55,7 @@ Make sure you have your trained model file placed inside the model/ folder and y
 ![Terminal Output](Screenshot 2025-06-01 130913.png)
 
 ### SMS Sent Confirmation
-![SMS Sent]()
+![SMS Sent](WhatsApp Image 2025-06-01 at 1.09.56 PM.jpeg)
 
 👩‍💻 Author
 Kiran C
