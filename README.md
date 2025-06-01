@@ -49,6 +49,14 @@ Make sure you have your trained model file placed inside the model/ folder and y
 
 🛑 Emergency cancellation option within a few seconds
 
+## 📸 Screenshots
+
+### Terminal Output
+![Terminal Output](images/terminal_output.png)
+
+### SMS Sent Confirmation
+![SMS Sent](images/sms_sent.png)
+
 👩‍💻 Author
 Kiran C
 B tech Student , REVA University
