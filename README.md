@@ -52,10 +52,10 @@ Make sure you have your trained model file placed inside the model/ folder and y
 ## 📸 Screenshots
 
 ### Terminal Output
-![Terminal Output](images/terminal_output.png)
+![Terminal Output](Screenshot 2025-06-01 130913.png)
 
 ### SMS Sent Confirmation
-![SMS Sent](images/sms_sent.png)
+![SMS Sent]()
 
 👩‍💻 Author
 Kiran C
